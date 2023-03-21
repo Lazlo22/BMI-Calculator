@@ -1,5 +1,6 @@
 # BMI Calculator
 ### Simple React BMI calculator with chart
+### [Demo](https://bmi-calculator-d3791.web.app/)
 <hr/>
 
 ![App example](images/app.example.png)
