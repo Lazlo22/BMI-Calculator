@@ -4,6 +4,9 @@
 
 ### This app build using Vite
 
+**First of all run** `npm install`
+<br/>
+<br/>
 `npm run dev` &ndash; **starts locally a server**
 <br/>
 <br/>

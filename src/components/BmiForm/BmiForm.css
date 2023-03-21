@@ -1,0 +1,52 @@
+input {
+    background-color: #fff !important;
+    border-radius: 44px !important;
+    width: 90% !important;
+    padding: 0 15px !important;
+}
+
+input:focus {
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+
+label {
+    display: block;
+    color: #fff !important;
+    font-size: 1rem !important;
+}
+
+#bmi-btn {
+    background-color: #3f51b5;
+    padding: 15px 50px;
+    color: white;
+    font-size: 16px;
+    border-radius: 44px;
+    cursor: pointer;
+    border: 1px solid #3f51b5;
+    margin-bottom: 40px;
+    transform: translate3d(0, 0, 0);
+    transition: all 0.2s ease;
+}
+
+#bmi-btn:hover {
+    background-color: #fff;
+    transform: translate(0px, -2px);
+    color: #5364c3;
+    box-shadow: 0px 15px 30px -12px rgba(255, 255, 255, 0.2);
+}
+
+#bmi-btn:focus {
+    background-color: #32408f;
+}
+
+#bmi-btn:focus:hover {
+    color: white;
+}
+
+#bmi-btn:disabled {
+    border: 1px solid #999999;
+    background-color: #cccccc;
+    color: #666666;
+    cursor: default;
+}
