@@ -1,5 +1,5 @@
-#**BMI Calculator**
-###Simple React BMI calculator with chart
+# BMI Calculator
+### Simple React BMI calculator with chart
 <hr/>
 
 ![App example](images/app.example.png)
@@ -19,9 +19,9 @@
 
 <hr/>
 
-##Resources
+## Resources
 <hr/>
 
-####• [React](https://reactjs.org/docs/getting-started.html)
-####• [Vite](https://vitejs.dev/guide/)
-####• [TypeScript](https://www.typescriptlang.org/docs/)
+#### • [React](https://reactjs.org/docs/getting-started.html)
+#### • [Vite](https://vitejs.dev/guide/)
+#### • [TypeScript](https://www.typescriptlang.org/docs/)
