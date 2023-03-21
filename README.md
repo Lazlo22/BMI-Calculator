@@ -2,9 +2,11 @@
 ###Simple React BMI calculator with chart
 <hr/>
 
+![App example](images/app.example.png)
+
 ### This app build using Vite
 
-**First of all run** `npm install`
+**First run** `npm install`
 <br/>
 <br/>
 `npm run dev` &ndash; **starts locally a server**
